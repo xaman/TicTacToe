@@ -1,6 +1,6 @@
-package com.droidrank.tictactoe.domain;
+package com.droidrank.tictactoe.domain
 
-public enum BoardStatus {
+enum class BoardStatus {
     PLAYER_1_MOVES,
     PLAYER_2_MOVES,
     PLAYER_1_WINS,

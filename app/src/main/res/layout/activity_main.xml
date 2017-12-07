@@ -17,7 +17,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/bt_block1"
+            android:id="@+id/block1Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -27,7 +27,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block2"
+            android:id="@+id/block2Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -37,7 +37,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block3"
+            android:id="@+id/block3Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -54,7 +54,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/bt_block4"
+            android:id="@+id/block4Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -64,7 +64,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block5"
+            android:id="@+id/block5Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -74,7 +74,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block6"
+            android:id="@+id/block6Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -91,7 +91,7 @@
 
 
         <Button
-            android:id="@+id/bt_block7"
+            android:id="@+id/block7Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -101,7 +101,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block8"
+            android:id="@+id/block8Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -111,7 +111,7 @@
             android:textSize="40sp"/>
 
         <Button
-            android:id="@+id/bt_block9"
+            android:id="@+id/block9Button"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_margin="2dp"
@@ -123,7 +123,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/tv_show_result"
+        android:id="@+id/resultTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
@@ -132,7 +132,7 @@
         android:textStyle="bold"/>
 
     <Button
-        android:id="@+id/bt_restart_game"
+        android:id="@+id/restartButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
